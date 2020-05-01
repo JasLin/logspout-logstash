@@ -1,3 +1,7 @@
+# build with proxy
+
+your can change proxy settings for go build to your proxy server in build.sh
+
 # Custom Logspout Builds
 
 Forking logspout to change modules is unnecessary! Instead, you can create an
