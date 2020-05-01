@@ -1,6 +1,6 @@
 # build with proxy
 
-your can change proxy settings for go build to your proxy server in build.sh
+you can change proxy settings for go build to your proxy server in build.sh
 
 # Custom Logspout Builds
 
